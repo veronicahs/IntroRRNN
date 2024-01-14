@@ -47,7 +47,7 @@ El script incluye una sección para cargar una imagen externa, preprocesarla y p
 Asegúrate de que las imágenes de entrada para la predicción sean en escala de grises y redimensionadas a 28x28 píxeles, similar al conjunto de datos MNIST.
 
 ## Contribución
-Siéntete libre de bifurcar el proyecto, enviar solicitudes de extracción o enviar sugerencias para mejorar el modelo o expandir la funcionalidad del proyecto.
+No dudes en hacer un fork del proyecto, enviar pull requests o aportar sugerencias para mejorar el modelo o ampliar las funcionalidades del proyecto.
 
 ## Licencia
 Especifica aquí la licencia de tu proyecto, usualmente es MIT o GPL para proyectos de código abierto.
